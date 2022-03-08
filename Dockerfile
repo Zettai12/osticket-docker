@@ -1,4 +1,4 @@
-FROM banian/php
+FROM php:8.0-cli
 MAINTAINER Pooya Parsa <pooya@pi0.ir>
 
 # Install packages
