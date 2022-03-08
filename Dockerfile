@@ -1,4 +1,4 @@
-FROM php:8.1-fpm
+FROM php:8.1.1-fpm
 MAINTAINER Pooya Parsa <pooya@pi0.ir>
 
 # Install packages
